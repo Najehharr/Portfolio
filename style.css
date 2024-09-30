@@ -205,6 +205,8 @@ a:hover{
   .title{
     font-size: 3rem;
     text-align: center;
+    flex-wrap: wrap;
+
   }
   #socials-container{
     display: flex;
@@ -270,6 +272,8 @@ a:hover{
     gap: 2rem;
     margin-bottom: 2rem;
     margin-top: 2rem;
+    flex-wrap: wrap;
+
   }
   .about-details-container{
     justify-content: center;
@@ -289,6 +293,7 @@ a:hover{
   }
 
   .details-container{
+    
     padding: 1.5rem;
     flex: 1;
     background: white;
